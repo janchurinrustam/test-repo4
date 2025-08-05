@@ -1,0 +1,18 @@
+body {
+    font-size: 24px;
+    }
+span.xxlarge {
+    font-size: 50px;
+}
+span.medium {
+    font-size: 30px;
+}
+span.small {
+    font-size: 10px;
+}
+    p.italic {
+    font-weight: italic;
+}
+p.bold {
+    font-style: bold;
+}
